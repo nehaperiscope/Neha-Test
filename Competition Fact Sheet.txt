@@ -1,0 +1,50 @@
+﻿Calling all Data Professionals! We’re excited to announce our first-ever community competition. You don’t have to already be a Periscope user, and you don’t need to know Python or R. Everyone is welcome!
+
+
+The Challenge: 
+Using Kaggle’s dataset on UFO sightings, create an eye-catching and informative data visualization of your choice. Submissions will be split into three categories: 
+1. Visualizations using Python
+2. Visualizations using R
+3. Visualizations using SQL only
+
+
+A panel of qualified judges will select 1 winner for each category.
+
+
+Prizes: 
+Winners will have the option to select any of the following prizes:
+1. A hiring-manager interview for the open Business Operations and Analytics Manager role at Periscope Data
+2. An Amazon gift card
+3. Periscope Data Swag
+
+
+Winners will also be featured in the Periscope Data Blog
+
+
+How to Register:
+Fill out this google form by October 3, 2018 at 11:59pm PT to enter. The following week, you will be given access to a Periscope Data instance where you can build out your creative visualizations!
+
+
+How to Submit a Visualization:
+Submit your entry by 11:59pm PT on Halloween under the “Competition Submissions” Section in our community. 
+
+
+
+
+  
+
+
+
+Click on “Create a Topic.”
+
+
+  
+
+
+
+NOTE: Submissions must be in the below format to qualify.
+  
+Upon submission, competition entries will be “in review” by our judging panel. After the competition, all entries will be published to the public facing community page.
+
+
+Good luck to everyone!
